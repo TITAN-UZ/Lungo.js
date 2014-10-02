@@ -1,5 +1,6 @@
 LungoJS
 =======
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/TITAN-UZ/Lungo.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A HTML5 framework for developers who want to design, build and share cross device applications.
 
  * **HTML5 Optimized Apps**: Supports open web standards, such as HTML5, CSS3 and JavaScript. It brings a consistent browser environment across mobiles, TVs and desktop devices.
